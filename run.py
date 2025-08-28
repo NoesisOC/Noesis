@@ -1,4 +1,4 @@
-# Copyright (c) Neosis, Inc. and affiliates.
+# Copyright (c) Noesis, Inc. and affiliates.
 # All rights reserved.
 
 import torch
